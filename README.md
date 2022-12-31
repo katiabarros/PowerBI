@@ -2,3 +2,5 @@
 Portfolio dashboards
 
 Dashboard superstore: https://app.powerbi.com/view?r=eyJrIjoiNGMzYTVhMjEtMTJmYi00MjgxLWFjMTMtZjg5YWRiNjlhYmVjIiwidCI6IjFlYjk5MGZmLTZjMzktNGI5Yi1hYjcxLTE3Y2U4YzBlM2I4NyJ9
+
+Dashboard supermarket: https://app.powerbi.com/view?r=eyJrIjoiZTVlMWJjMGUtMjY3NS00Nzg5LThkN2YtNGE1ZWM3NzJiZWI5IiwidCI6IjFlYjk5MGZmLTZjMzktNGI5Yi1hYjcxLTE3Y2U4YzBlM2I4NyJ9
